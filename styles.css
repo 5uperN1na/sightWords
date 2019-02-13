@@ -1,0 +1,16 @@
+
+  .divs{
+
+    height: 100px;
+    width: 100px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 50 em;
+    vertical-align: middle;
+    border: 1px solid black;
+    background-color: rgb(93, 99, 93);
+    float: left;
+    
+
+  }
